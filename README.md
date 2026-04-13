@@ -46,14 +46,14 @@ JavaScript (Vanilla/ES6) para a lógica matemática e manipulação do DOM
 
 Nenhuma dependência ou biblioteca externa foi utilizada
 
-📝 Licença
+## 📝 Licença: 
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
-👨‍🏫 Autor
+## 👨‍🏫 Autor
 Sergio Eric
 
-📷 Instagram: @prof.sergio.eric.matematica
+##📷 Instagram: @prof.sergio.eric.matematica
 
 🔗 GitHub: seu-usuario (substitua pelo seu link)
 
-Projeto desenvolvido como atividade prática e ferramenta de apoio didático para a disciplina Elementos de Álgebra – UNIVESP.
+## Projeto desenvolvido como atividade prática e ferramenta de apoio didático para a disciplina Elementos de Álgebra – UNIVESP.
