@@ -6,7 +6,7 @@
 
 **Projeto interativo educacional para a disciplina Elementos de Álgebra – UNIVESP (Semana 3).** Implementação de uma ferramenta web focada em acessibilidade que permite cifrar e decifrar mensagens usando a **Cifra Afim** sobre o anel ℤ₂₆ (inteiros módulo 26).
 
-🔗 **Acesse a demonstração ao vivo:** [Link para o GitHub Pages](https://seu-usuario.github.io/nome-do-repositorio) *(substitua pelo link real)*
+🔗 **Acesse a demonstração ao vivo:** [Link para o GitHub Pages]([https://seu-usuario.github.io/nome-do-repositorio](https://profsergioericmatematica.github.io/semana-3---Elementos-de-Algebra---Aneis---criptografia-com-Cifra-Afim/)) 
 
 ## ✨ Funcionalidades
 
