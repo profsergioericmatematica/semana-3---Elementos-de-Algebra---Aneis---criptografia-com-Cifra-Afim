@@ -32,7 +32,7 @@ A chave **β** pode assumir qualquer valor inteiro no intervalo de 0 a 25.
 
 ## 🚀 Como usar localmente
 
-1. [Clone este repositório:](https://profsergioericmatematica.github.io/semana-3---Elementos-de-Algebra---Aneis---criptografia-com-Cifra-Afim/)
+1. [Clique aqui:](https://profsergioericmatematica.github.io/semana-3---Elementos-de-Algebra---Aneis---criptografia-com-Cifra-Afim/)
  
 
 Selecione os valores de α e β, digite ou cole um texto na área indicada e clique em Cifrar ou Decifrar.
