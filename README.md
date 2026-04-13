@@ -32,6 +32,28 @@ A chave **β** pode assumir qualquer valor inteiro no intervalo de 0 a 25.
 
 ## 🚀 Como usar localmente
 
-1. Clone este repositório:
-   ```bash
-   git clone [[https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/profsergioericmatematica)]([https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/profsergioericmatematica))
+1. [Clone este repositório:](https://profsergioericmatematica.github.io/semana-3---Elementos-de-Algebra---Aneis---criptografia-com-Cifra-Afim/)
+ 
+
+Selecione os valores de α e β, digite ou cole um texto na área indicada e clique em Cifrar ou Decifrar.
+
+🛠️ Tecnologias Utilizadas
+HTML5
+
+CSS3 (Flexbox e arquitetura Mobile-First para adaptação em qualquer tela)
+
+JavaScript (Vanilla/ES6) para a lógica matemática e manipulação do DOM
+
+Nenhuma dependência ou biblioteca externa foi utilizada
+
+📝 Licença
+Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
+
+👨‍🏫 Autor
+Sergio Eric
+
+📷 Instagram: @prof.sergio.eric.matematica
+
+🔗 GitHub: seu-usuario (substitua pelo seu link)
+
+Projeto desenvolvido como atividade prática e ferramenta de apoio didático para a disciplina Elementos de Álgebra – UNIVESP.
