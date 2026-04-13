@@ -50,9 +50,9 @@ Nenhuma dependência ou biblioteca externa foi utilizada
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
 ## 👨‍🏫 Autor
-Sergio Eric
+**Sergio Eric**  
+📷 Instagram: [@prof.sergio.eric.matematica](https://instagram.com/prof.sergio.eric.matematica)
 
-📷 Instagram: @prof.sergio.eric.matematica
+---
 
-
-## Projeto desenvolvido como atividade prática e ferramenta de apoio didático para a disciplina Elementos de Álgebra – UNIVESP.
+*Projeto desenvolvido como atividade prática e ferramenta de apoio didático para a disciplina Elementos de Álgebra – UNIVESP.*
