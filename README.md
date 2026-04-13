@@ -1,5 +1,3 @@
-Aqui está o conteúdo completo do arquivo `README.md` em um único bloco de código, pronto para copiar e colar. Ele mantém as quebras de linha necessárias para o Markdown, mas sem linhas vazias desnecessárias ou espaços extras.
-
 ```markdown
 # 🔐 Cifra Afim – Criptografia e Decifragem
 
